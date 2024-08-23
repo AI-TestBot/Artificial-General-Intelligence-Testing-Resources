@@ -1,4 +1,4 @@
-# Artificial-General-Intelligence-Resources
+# AGI & EAI Testing Resources
 
 ## Resources
 
