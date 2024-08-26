@@ -45,16 +45,20 @@ Iscience, 2024.
 
 ## Embodied AI Testing
 
-*Behavior-1k: A benchmark for embodied ai with 1,000 everyday activities and realistic simulation.*<br>
-*C Li, R Zhang, J Wong, C Gokmen, S Srivastava, R Martín-Martín, C Wang, G Levine, et al.*<br>
-Conference on Robot Learning, 2023.
-[[Paper](https://proceedings.mlr.press/v205/li23a/li23a.pdf)]
-[[Homepage](https://behavior.stanford.edu/)]
-
 *Sqa3d: Situated question answering in 3d scenes.*<br>
 *X Ma, S Yong, Z Zheng, Q Li, Y Liang, SC Zhu, S Huang.*<br>
 ICLR, 2023.
 [[ArXiv](https://arxiv.org/pdf/2210.07474)]
 [[Github](https://sqa3d.github.io/)]
 
+*Behavior-1k: A benchmark for embodied ai with 1,000 everyday activities and realistic simulation.*<br>
+*C Li, R Zhang, J Wong, C Gokmen, S Srivastava, R Martín-Martín, C Wang, G Levine, et al.*<br>
+Conference on Robot Learning, 2023.
+[[Paper](https://proceedings.mlr.press/v205/li23a/li23a.pdf)]
+[[Homepage](https://behavior.stanford.edu/)]
 
+*BEHAVIOR Vision Suite: Customizable Dataset Generation via Simulation.*<br>
+*Y Ge, Y Tang, J Xu, C Gokmen, C Li, W Ai, BJ Martinez, A Aydin, M Anvari, AK Chakravarthy, et al.*<br>
+CVPR, 2024.
+[[ArXiv](https://openaccess.thecvf.com/content/CVPR2024/papers/Ge_BEHAVIOR_Vision_Suite_Customizable_Dataset_Generation_via_Simulation_CVPR_2024_paper.pdf)]
+[[Github](https://behavior-vision-suite.github.io/)]
