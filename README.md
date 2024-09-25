@@ -8,6 +8,43 @@
 **awesome-agi.**<br>
 [[Github](https://github.com/enricoros/awesome-agi)]
 
+## Embedded AI Systems Testing
+
+**Benchmarking tinyml systems: Challenges and direction.**<br>
+*CR Banbury, VJ Reddi, M Lam, W Fu, A Fazel, et al.*<br>
+arXiv, 2020.
+[[ArXiv](https://arxiv.org/pdf/2003.04821)]
+
+**On-Device Domain Learning for Keyword Spotting on Low-Power Extreme Edge Embedded Systems.**<br>
+*C Cioflan, L Cavigelli, M Rusci, M de Prado, L Benini.*<br>
+arXiv:2403.10549, 2024.
+[[ArXiv](https://arxiv.org/pdf/2403.10549)]
+
+**Wake Vision: A Large-scale, Diverse Dataset and Benchmark Suite for TinyML Person Detection.**<br>
+*C Banbury, E Njor, M Stewart, P Warden, M Kudlur, N Jeffries, X Fafoutis, VJ Reddi.*<br>
+arXiv:2405.00892, 2024.
+[[ArXiv](https://arxiv.org/pdf/2405.00892)]
+
+## Embodied AI Testing
+
+*Sqa3d: Situated question answering in 3d scenes.*<br>
+*X Ma, S Yong, Z Zheng, Q Li, Y Liang, SC Zhu, S Huang.*<br>
+ICLR, 2023.
+[[ArXiv](https://arxiv.org/pdf/2210.07474)]
+[[Github](https://sqa3d.github.io/)]
+
+*Behavior-1k: A benchmark for embodied ai with 1,000 everyday activities and realistic simulation.*<br>
+*C Li, R Zhang, J Wong, C Gokmen, S Srivastava, R Martín-Martín, C Wang, G Levine, et al.*<br>
+Conference on Robot Learning, 2023.
+[[Paper](https://proceedings.mlr.press/v205/li23a/li23a.pdf)]
+[[Homepage](https://behavior.stanford.edu/)]
+
+*BEHAVIOR Vision Suite: Customizable Dataset Generation via Simulation.*<br>
+*Y Ge, Y Tang, J Xu, C Gokmen, C Li, W Ai, BJ Martinez, A Aydin, M Anvari, AK Chakravarthy, et al.*<br>
+CVPR, 2024.
+[[ArXiv](https://openaccess.thecvf.com/content/CVPR2024/papers/Ge_BEHAVIOR_Vision_Suite_Customizable_Dataset_Generation_via_Simulation_CVPR_2024_paper.pdf)]
+[[Github](https://behavior-vision-suite.github.io/)]
+
 ## AGI Testing
 
 *From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on Generalizability, Trustworthiness and Causality through Four Modalities.*<br>
@@ -42,23 +79,3 @@ Engineering, 2023.
 *Y Qu, C Wei, P Du, W Che, C Zhang, W Ouyang, Y Bian, F Xu, B Hu, K Du, H Wu, J Liu, Q Liu.*<br>
 Iscience, 2024.
 [[Paper](https://www.cell.com/iscience/fulltext/S2589-0042(24)00772-7)]
-
-## Embodied AI Testing
-
-*Sqa3d: Situated question answering in 3d scenes.*<br>
-*X Ma, S Yong, Z Zheng, Q Li, Y Liang, SC Zhu, S Huang.*<br>
-ICLR, 2023.
-[[ArXiv](https://arxiv.org/pdf/2210.07474)]
-[[Github](https://sqa3d.github.io/)]
-
-*Behavior-1k: A benchmark for embodied ai with 1,000 everyday activities and realistic simulation.*<br>
-*C Li, R Zhang, J Wong, C Gokmen, S Srivastava, R Martín-Martín, C Wang, G Levine, et al.*<br>
-Conference on Robot Learning, 2023.
-[[Paper](https://proceedings.mlr.press/v205/li23a/li23a.pdf)]
-[[Homepage](https://behavior.stanford.edu/)]
-
-*BEHAVIOR Vision Suite: Customizable Dataset Generation via Simulation.*<br>
-*Y Ge, Y Tang, J Xu, C Gokmen, C Li, W Ai, BJ Martinez, A Aydin, M Anvari, AK Chakravarthy, et al.*<br>
-CVPR, 2024.
-[[ArXiv](https://openaccess.thecvf.com/content/CVPR2024/papers/Ge_BEHAVIOR_Vision_Suite_Customizable_Dataset_Generation_via_Simulation_CVPR_2024_paper.pdf)]
-[[Github](https://behavior-vision-suite.github.io/)]
