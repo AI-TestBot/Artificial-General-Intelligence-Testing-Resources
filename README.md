@@ -8,7 +8,7 @@
 **awesome-agi.**<br>
 [[Github](https://github.com/enricoros/awesome-agi)]
 
-## Embedded AI Systems Testing
+## Embedded AI Testing
 
 **Benchmarking tinyml systems: Challenges and direction.**<br>
 *CR Banbury, VJ Reddi, M Lam, W Fu, A Fazel, et al.*<br>
