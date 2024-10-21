@@ -45,13 +45,6 @@ CVPR, 2024.
 [[ArXiv](https://openaccess.thecvf.com/content/CVPR2024/papers/Ge_BEHAVIOR_Vision_Suite_Customizable_Dataset_Generation_via_Simulation_CVPR_2024_paper.pdf)]
 [[Github](https://behavior-vision-suite.github.io/)]
 
-## Omini Modal
-
-*OmniBench: Towards The Future of Universal Omni-Language Models.*<br>
-*Y Li, G Zhang, et al.*<br>
-ArXiv, 2024.
-[[ArXiv](https://arxiv.org/pdf/2409.15272)]
-
 ## AGI Testing
 
 *From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on Generalizability, Trustworthiness and Causality through Four Modalities.*<br>
